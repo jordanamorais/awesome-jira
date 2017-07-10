@@ -7,6 +7,7 @@ A curated list of awesome Atlassian's JIRA tips and tricks, tutorials and best p
 - [Keyboard Shortcuts](#keyboard-shortcuts)
 - [Layout and Design](#layout-and-design)
 - [JIRA Dashboard tips](#jira-dashboard)
+- [JIRA Addons](#jira-addons)
 
 ## Keyboard Shortcuts
 
@@ -47,5 +48,9 @@ Some useful available keyboard shortcuts:
 * [How to build the workflow that i want](https://confluence.atlassian.com/jiracorecloud/how-do-i-build-the-workflow-i-want-765593066.html)
 * [5 steps to a Killer JIRA Dashboard](https://www.atlassian.com/blog/jira-software/5-steps-to-build-a-killer-dashboard)
 * [Configuring custom dashboards](https://confluence.atlassian.com/adminjiracloud/configuring-custom-dashboards-868983043.html)
+
+## JIRA Addons
+
+* [JIRA Top Rated Addons](https://marketplace.atlassian.com/addons/app/jira/top-rated)
 
 
