@@ -8,6 +8,7 @@ A curated list of awesome Atlassian's JIRA tips and tricks, tutorials and best p
 - [Layout and Design](#layout-and-design)
 - [JIRA Dashboard tips](#jira-dashboard)
 - [JIRA Addons](#jira-addons)
+- [Github Integration](#github-integration)
 
 ## Keyboard Shortcuts
 
@@ -17,22 +18,26 @@ Some useful available keyboard shortcuts:
 
 |  Action                    |  Shortcut     |
 |---                         |---            |
-|  Open Notification         |      'g' then 'n'        |
-|  Go to Dashboard           |      'g' then 'd'        |
-|  Create Content            |      'c       |
-|  Open Recently Viewed      |      'g' then 'r'       |
-|  Quick Search              |      '/'   |
+|  Open Notification         |      **g** then **n**        |
+|  Go to Dashboard           |      **g** then **d**        |
+|  Issue navigator           |      **g** then **i**        |
+|  Create Content            |      **c**       |
+|  Open Recently Viewed      |      **g** then **r**       |
+|  Quick Search              |      **/**   |
 
 ### Issue Actions
 
 |  Action                    |  Shortcut     |
 |---                         |---            |
-|  Edit Issue                |      'e'        |
-|  Assign Issue              |      'a'        |
-|  Assign to me              |      'i'        |
-|  Comment on issue          |      'm'        |
-|  Share issue               |      's'        |
-|  Edit issue labels         |      'l'        |
+|  Edit Issue                |      **e**        |
+|  Assign Issue              |      **a**        |
+|  Next Issue                |      **j**        |
+|  Previous Issue            |      **k**        |
+|  Expand all Swimlanes      |      **-**        |
+|  Assign to me              |      **i**        |
+|  Comment on issue          |      **m**        |
+|  Share issue               |      **s**        |
+|  Edit issue labels         |      **l**        |
 
 ## Layout and Design
 
@@ -51,6 +56,10 @@ Some useful available keyboard shortcuts:
 
 ## JIRA Addons
 
-* [JIRA Top Rated Addons](https://marketplace.atlassian.com/addons/app/jira/top-rated)
+* [Top Rated Addons](https://marketplace.atlassian.com/addons/app/jira/top-rated)
+
+## Github Integration
+* [Github Integration Addon](https://marketplace.atlassian.com/plugins/com.xiplink.jira.git.jira_git_plugin/cloud/overview)
+* [Connecting JIRA 6.2 to Github](https://www.atlassian.com/blog/jira-software/connecting-jira-6-2-github)
 
 
