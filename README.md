@@ -6,27 +6,25 @@ A curated list of awesome Atlassian's JIRA tips and tricks, tutorials and best p
 
 - [Keyboard Shortcuts](#keyboard-shortcuts)
 - [Layout and Design](#layout-and-design)
-- [JIRA Dashboard](#jira-dashboard)
+- [JIRA Dashboard tips](#jira-dashboard)
 
 ## Keyboard Shortcuts
 
-Keyboard Shortcuts
+Some useful available keyboard shortcuts:
 
 ### Global Shortcuts
 
-|  Action                    |  shortcut     |
+|  Action                    |  Shortcut     |
 |---                         |---            |
 |  Open Notification         |      'g' then 'n'        |
 |  Go to Dashboard           |      'g' then 'd'        |
 |  Create Content            |      'c       |
 |  Open Recently Viewed      |      'g' then 'r'       |
 |  Quick Search              |      '/'   |
-|  Quick Search              |      '/'   |
-|  Quick Search              |      '/'   |
 
 ### Issue Actions
 
-|  Action                    |  shortcut     |
+|  Action                    |  Shortcut     |
 |---                         |---            |
 |  Edit Issue                |      'e'        |
 |  Assign Issue              |      'a'        |
