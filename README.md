@@ -9,6 +9,7 @@ A curated list of awesome Atlassian's JIRA tips and tricks, tutorials and best p
 - [JIRA Dashboard tips](#jira-dashboard)
 - [JIRA Addons](#jira-addons)
 - [Github Integration](#github-integration)
+- [Wireframes/Prototypes tools Integration](#prototype-tool-integration)
 
 ## Keyboard Shortcuts
 
@@ -61,5 +62,11 @@ Some useful available keyboard shortcuts:
 ## Github Integration
 * [Github Integration Addon](https://marketplace.atlassian.com/plugins/com.xiplink.jira.git.jira_git_plugin/cloud/overview)
 * [Connecting JIRA 6.2 to Github](https://www.atlassian.com/blog/jira-software/connecting-jira-6-2-github)
+
+## Prototype tool integration
+
+*Marvel app* is an amazing Wireframes/Prototype colaborative tool. Now integrated with Jira!
+
+* [Jira Plugin for Marvel Integration](https://marketplace.atlassian.com/plugins/com.marvelapp.jira.addon.marvelapp-for-jira/cloud/overview)
 
 
